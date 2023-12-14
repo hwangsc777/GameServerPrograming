@@ -1,0 +1,17 @@
+=====rank.txt=====
+Rank 1 : user1 - 64
+Rank 2 : aa - 63
+Rank 3 : user44 - 62
+Rank 4 : user33 - 61
+Rank 5 : user7 - 60
+Rank 6 : 김 - 60
+Rank 7 : 박 - 60
+Rank 8 : 이 - 60
+Rank 9 : 나 - 60
+Rank 10 : user8 - 58
+Rank 11 : user11 - 58
+Rank 12 : 정 - 56
+Rank 13 : user22 - 56
+Rank 14 : user2 - 54
+Rank 15 : user3 - 53
+Rank 16 : user4 - 52
